@@ -7,6 +7,5 @@
  - C/C++
  - Python
  - Linux
-## Machine Learning
-## Deep Learning
+## Machine Learning/Deep Learning
 ## Big Data

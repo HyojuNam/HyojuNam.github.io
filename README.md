@@ -1,8 +1,8 @@
-#Introduce
-- Name: Hyoju Nam
-- Major: Computer Engineering
+# Introduce
+ - Name: Hyoju Nam
+ - Major: Computer Engineering
 
-#Interest part
+# Interest part
 ## Programming
  - C/C++
  - Python

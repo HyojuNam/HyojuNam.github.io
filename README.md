@@ -1,14 +1,14 @@
 # Introduce
- - Name: Hyoju Nam
- - Major: Computer Engineering
+ * Name: Hyoju Nam
+ * Major: Computer Engineering
 
-# Interest part
+# Interests
 ## Programming
- - C/C++
- - Python
- - Linux
+  * C/C++
+  * Python
+  * Linux
 ## Machine Learning/Deep Learning
- - Image
- - Text
+  * Image
+  * Text
 ## Big Data
- - Brightics AI Platform
+  * Brightics AI Platform

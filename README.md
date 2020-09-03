@@ -8,4 +8,7 @@
  - Python
  - Linux
 ## Machine Learning/Deep Learning
+ - Image
+ - Text
 ## Big Data
+ - Brightics AI Platform

@@ -3,12 +3,12 @@
  * Major: Computer Engineering
 
 # Interests
-## Programming
+ ## Programming
   * C/C++
   * Python
   * Linux
-## Machine Learning/Deep Learning
+ ## Machine Learning/Deep Learning
   * Image
   * Text
-## Big Data
+ ## Big Data
   * Brightics AI Platform
